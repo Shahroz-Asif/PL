@@ -1,0 +1,12 @@
+first = input("Enter your First name: ")
+last = input("Enter your Last name: ")
+street = input("Enter your Street name: ")
+number = input("Enter your Street number: ")
+city = input("Enter your City name: ")
+state = input("Enter your State name: ")
+zipcode = input("Enter your Zipcode: ")
+
+print()
+print(first + " " + last)
+print(number + " " + street)
+print(city + ", " + state + " " + zipcode)
