@@ -1,0 +1,9 @@
+xxxx of the Python regular expression matching functions are useful for different purposes.
+
+re.match always starts at the beginning of the string.
+
+re.search steps through the string xxxx the start looking for the first match. It stops xxxx it finds a match.
+
+re.findall returns a xxxx of all the search matches.
+
+In all the cases above, if there's a group in the regex pattern, xxxx the xxxx you get xxxx is a tuple of the xxxx match followed by xxxx group match in the order xxxx appear in the regex pattern.
